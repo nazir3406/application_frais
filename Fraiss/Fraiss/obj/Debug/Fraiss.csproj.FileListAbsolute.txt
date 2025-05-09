@@ -1,0 +1,320 @@
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.csprojAssemblyReference.cache
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.Form1.resources
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.Properties.Resources.resources
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.GenerateResource.cache
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CoreCompileInputs.cache
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\Fraiss.exe.config
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\Fraiss.exe
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\Fraiss.pdb
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\Google.Protobuf.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\MySql.Data.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Buffers.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Memory.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\ZstdSharp.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\Google.Protobuf.pdb
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\Google.Protobuf.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\MySql.Data.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Buffers.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Memory.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CopyComplete
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.exe
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.pdb
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\Fraiss.exe.config
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\Fraiss.exe
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\Fraiss.pdb
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\Google.Protobuf.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\MySql.Data.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Buffers.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Memory.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\ZstdSharp.dll
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\Google.Protobuf.pdb
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\Google.Protobuf.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\MySql.Data.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Buffers.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Memory.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\obj\Debug\Fraiss.csprojAssemblyReference.cache
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\obj\Debug\Fraiss.Form1.resources
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\obj\Debug\Fraiss.Properties.Resources.resources
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.GenerateResource.cache
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CoreCompileInputs.cache
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CopyComplete
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\obj\Debug\Fraiss.exe
+C:\Users\rbangoutch\source\repos\Fraiss\Fraiss\Fraiss\obj\Debug\Fraiss.pdb
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\Fraiss.exe.config
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\Fraiss.exe
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\Fraiss.pdb
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\Google.Protobuf.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\MySql.Data.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Buffers.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Memory.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\ZstdSharp.dll
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\Google.Protobuf.pdb
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\Google.Protobuf.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\MySql.Data.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Buffers.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Memory.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.csprojAssemblyReference.cache
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.Form1.resources
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.comptable.resources
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.Properties.Resources.resources
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.GenerateResource.cache
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CoreCompileInputs.cache
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CopyComplete
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.exe
+C:\Users\rbangoutch\source\repos\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.pdb
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\Fraiss.exe.config
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\Fraiss.exe
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\Fraiss.pdb
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\Google.Protobuf.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\MySql.Data.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Buffers.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Memory.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\ZstdSharp.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\Google.Protobuf.pdb
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\Google.Protobuf.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\MySql.Data.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Buffers.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Memory.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.csprojAssemblyReference.cache
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.Form1.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.comptable.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.Properties.Resources.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.GenerateResource.cache
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CoreCompileInputs.cache
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CopyComplete
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.exe
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.pdb
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.Visiteur.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.consultation.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTS2SIOB\BANGOU TCHEUBUE_Rostambert_(rbangoutch)\Downloads\Fraiss1\Fraiss\Fraiss\obj\Debug\Fraiss.Saisie.resources
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\Fraiss.exe.config
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\Fraiss.exe
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\Fraiss.pdb
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\Google.Protobuf.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\MySql.Data.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Buffers.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Memory.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\ZstdSharp.dll
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\Google.Protobuf.pdb
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\Google.Protobuf.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\MySql.Data.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Buffers.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Memory.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.csprojAssemblyReference.cache
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.consultation.resources
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.Form1.resources
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.comptable.resources
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.Properties.Resources.resources
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.Saisie.resources
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.Visiteur.resources
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.csproj.GenerateResource.cache
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.csproj.CoreCompileInputs.cache
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.csproj.CopyComplete
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.exe
+C:\Users\rbangoutch\OneDrive - Lycée des Sciences et du Numérique Louis Armand\Fraiss - Copie\Fraiss\obj\Debug\Fraiss.pdb
+E:\Fraiss\Fraiss\bin\Debug\Fraiss.exe.config
+E:\Fraiss\Fraiss\bin\Debug\Fraiss.exe
+E:\Fraiss\Fraiss\bin\Debug\Fraiss.pdb
+E:\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Fraiss\Fraiss\bin\Debug\Google.Protobuf.dll
+E:\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.dll
+E:\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.dll
+E:\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fraiss\Fraiss\bin\Debug\MySql.Data.dll
+E:\Fraiss\Fraiss\bin\Debug\System.Buffers.dll
+E:\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.dll
+E:\Fraiss\Fraiss\bin\Debug\System.Memory.dll
+E:\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.dll
+E:\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Fraiss\Fraiss\bin\Debug\ZstdSharp.dll
+E:\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Fraiss\Fraiss\bin\Debug\Google.Protobuf.pdb
+E:\Fraiss\Fraiss\bin\Debug\Google.Protobuf.xml
+E:\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.xml
+E:\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.xml
+E:\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Fraiss\Fraiss\bin\Debug\MySql.Data.xml
+E:\Fraiss\Fraiss\bin\Debug\System.Buffers.xml
+E:\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.xml
+E:\Fraiss\Fraiss\bin\Debug\System.Memory.xml
+E:\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.xml
+E:\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.csprojAssemblyReference.cache
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.consultation.resources
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.Form1.resources
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.comptable.resources
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.Properties.Resources.resources
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.Saisie.resources
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.Visiteur.resources
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.GenerateResource.cache
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CoreCompileInputs.cache
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CopyComplete
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.exe
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.pdb
+E:\Fraiss\Fraiss\obj\Debug\Fraiss.suivi.resources
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.AssemblyReference.cache
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.consultation.resources
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.Form1.resources
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.comptable.resources
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.Properties.Resources.resources
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.Saisie.resources
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.suivi.resources
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.Visiteur.resources
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.GenerateResource.cache
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CoreCompileInputs.cache
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.exe
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.pdb
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\Fraiss.exe.config
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\Fraiss.exe
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\Fraiss.pdb
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\Google.Protobuf.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\MySql.Data.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Buffers.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Memory.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\ZstdSharp.dll
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\Google.Protobuf.pdb
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\Google.Protobuf.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\MySql.Data.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Buffers.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Memory.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nazir\source\repos\Fraiss\Fraiss\obj\Debug\Fraiss.csproj.CopyComplete
